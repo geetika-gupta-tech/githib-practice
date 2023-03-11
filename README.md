@@ -1,2 +1,2 @@
-# githib-practice
+# github-practice
 Practicing the github workflow
